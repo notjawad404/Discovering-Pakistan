@@ -1,0 +1,41 @@
+{
+    "itemlist" :
+    [
+      {
+        "src":"BadshahiMosque.jpeg",
+        "location":"Lahore, Punjab,Pakistan",
+        "caption":"Badshahi Mosque"
+      },
+  
+      {
+        "src":"ShahFaisalMasjid.jpeg", 
+        "location":"Islamabad, Pakistan", 
+        "caption":"Shah Faisal Masjid"
+      },
+  
+      {
+        "src":"Mazar-e-Quaid.jpeg", 
+        "location":"Karachi, Sindh.Pakistan", 
+        "caption":"Badshahi Mosque"
+      },
+  
+      {
+        "src":"RohtasFOrt.jpeg", 
+        "location":"Dina, Jhelum, Punjab, Pakistan", 
+        "caption":"Badshahi Mosque"
+      },
+  
+      {
+        "src":"HannahLake.jpg", 
+        "location":"Quetta, Balochistan, Pakistan", 
+        "caption":"Badshahi Mosque"
+      },
+  
+      {
+        "src":"BalaHisarFort.jpeg", 
+        "location":"Peshawar, Khyber Pakhtunkhwa, Pakistan", 
+        "caption":"Badshahi Mosque"
+      }
+    ]
+  }
+  
